@@ -1,0 +1,4 @@
+C:/Users/andre/CLionProjects/socket_redes/cmake-build-debug/CMakeFiles/cliente.dir
+C:/Users/andre/CLionProjects/socket_redes/cmake-build-debug/CMakeFiles/servidor.dir
+C:/Users/andre/CLionProjects/socket_redes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/CLionProjects/socket_redes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
